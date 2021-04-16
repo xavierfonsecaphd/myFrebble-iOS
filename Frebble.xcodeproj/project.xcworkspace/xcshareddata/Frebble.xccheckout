@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>15A29023-7E1B-408C-9626-4FD7A02B8ECF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Frebble</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AFB3CAF936F866F61ED6FF2C63E5127222733F1B</key>
+		<string>https://github.com/HollandHaptics/myFrebbleReceptionRoom-Unity-</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/frebble_5/Frebble.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AFB3CAF936F866F61ED6FF2C63E5127222733F1B</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/HollandHaptics/myFrebbleReceptionRoom-Unity-</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AFB3CAF936F866F61ED6FF2C63E5127222733F1B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AFB3CAF936F866F61ED6FF2C63E5127222733F1B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>myFrebbleReceptionRoom-Unity-</string>
+		</dict>
+	</array>
+</dict>
+</plist>
